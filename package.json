@@ -1,0 +1,16 @@
+{
+  "name": "bookr-test",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cucumber-js"
+  },
+  "author": "ana",
+  "license": "ISC",
+  "dependencies": {
+    "@cucumber/cucumber": "^8.6.0",
+    "cucumber": "^6.0.7",
+    "selenium-webdriver": "^4.4.0"
+  }
+}
